@@ -1,0 +1,15 @@
+.container{
+    padding: 1% 20%;
+}
+.main{
+    background-color: rgb(190, 199, 202);
+    width: 100%;
+    padding: 30px 50px;
+}
+.detail{
+    background-color: rgb(166, 170, 173);
+}
+
+.address{
+    background-color: rgb(23, 146, 228);
+}
